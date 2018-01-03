@@ -1,0 +1,17 @@
+
+.custom-table{
+    width: 800px;
+    height: auto;
+    margin:0 auto;
+    margin-top: 10px;
+    border: 1px solid #cccccc;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid #cccccc;
+    text-align: center;
+}
+form{
+    width: 800px;
+    margin:auto;
+}
